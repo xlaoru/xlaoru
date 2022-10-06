@@ -2,7 +2,7 @@
 💡 I am a Frontend developer with big ambitions<br>📧 My email: sia212007@gmail.com <br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hlauru) 
 
 # 💻 Tech Stack:
